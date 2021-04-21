@@ -1,6 +1,6 @@
 package StepDefinitions;
 
-import java.awt.AWTException;
+
 import java.util.ArrayList;
 
 import org.openqa.selenium.WebDriver;
